@@ -3,3 +3,5 @@ description: かずさ数学クラブの公式ウェブサイトです。
 url: ""
 baseurl: ""
 lang: ja
+exclude:
+  - README.md
