@@ -1,9 +1,9 @@
---- ---:root {
+:root {
     --primary-color: #3b82f6;
     --primary-hover: #2563eb;
-    --bg-color: #0f172a;
-    --text-color: #f8fafc;
-    --content-bg: #1e293b;
+    --bg-color: #f7fbff;
+    --text-color: #000000;
+    --content-bg: #e3f2fd;
     --accent: #10b981;
     --font-family: 'Inter', 'Noto Sans JP', sans-serif;
 }
@@ -89,7 +89,6 @@ a:hover {
 
 .markdown-body h1 {
     font-size: 2.5rem;
-    background: linear-gradient(to right, #f8fafc, #94a3b8);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
