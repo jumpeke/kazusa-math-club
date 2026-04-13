@@ -5,3 +5,4 @@ baseurl: "/kazusa-math-club"
 lang: ja
 exclude:
   - README.md
+theme: null
