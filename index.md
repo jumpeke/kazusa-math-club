@@ -38,7 +38,6 @@ layout: default
 
 * [数学ガールシリーズ](https://www.hyuki.com/girl/)  
 * [高校数学の美しい物語](https://www.sbcr.jp/product/4797385588/)  
-* [解きたくなる数学シリーズ](https://www.iwanami.co.jp/book/b588085.html)  
 * [天書の証明](https://www.maruzen-publishing.co.jp/book/b10121613.html)
 
 など。初回開催時に参加者の推薦と投票によって使用するテキストを決めます。
@@ -55,7 +54,9 @@ layout: default
 
 ## 参加費
 
-会場費用を参加者で分担します。
+無料。ただし、会場に費用がかかる場合は割り勘します。
+
+（必要なテキスト等は各自で購入するか、図書館を利用していただく予定です）
 
 ## 参加・お問い合わせなど
 
